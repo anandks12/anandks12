@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @anandks12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hey there, I'm Anand KS
 
-<!---
-anandks12/anandks12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate developer with a love for building cool stuff, learning new tech, and solving real-world problems. Whether it's scripting a tool, automating a workflow, or exploring a new framework — I'm always up for the challenge.
+
+---
+
+## 🚀 What I Do
+
+- 🔧 Experiment with Linux, automation, and backend tools
+- 🧠 Learn and build side projects in my free time
+- 💻 Tweak my development setup until it's *just right*
+- 📝 Document what I learn and share it with others
+
+---
+
+## 💡 What I Like
+
+- 🧩 Clean, minimal code that does more with less
+- 📚 Learning by doing (and breaking things in the process)
+- ☕ Late-night debugging and caffeine-driven breakthroughs
+- 🎧 Music + Code = Flow state
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/anand-ks-5241a5233)
+- 📧 anandsudesan001@gmail.com
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for stopping by! 🙌
